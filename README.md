@@ -69,3 +69,6 @@ Hoje o system prompt e fixo no codigo. Voce deve permitir que **cada usuario edi
 1. Faca commits pequenos e com mensagens descritivas ao longo do desenvolvimento.
 2. Garanta que os testes existentes continuam passando (`.venv/bin/python -m pytest` ou `.venv\Scripts\python.exe -m pytest`).
 3. Faca push das alteracoes para o repositorio remoto.
+
+
+
